@@ -6,7 +6,6 @@
       "info-card#button-left"
     ]
   },
-
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
@@ -19,7 +18,6 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
       "blockClass": "vintage"
-      
     }
   },
   "info-card#button-left": {
