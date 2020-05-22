@@ -1,12 +1,6 @@
 {
   "store.home": {
-    "blocks": [
-      "shelf"
-    ]
-  },
-  "product-summary.shelf": {
-    "children": [
-      "product-summary-image"
+    "shelf": [
     ]
   }
 }
