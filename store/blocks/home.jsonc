@@ -1,15 +1,13 @@
 {
   "store.product": {
     "blocks": [
+      "flex-layout.row",
+      "flex-layout.col",
       "flex-layout.row#main"
     ]
   },
-  "flex-layout.row#main": {
-    "props": {
-      "marginTop": 6
-    },
+  "flex-layout.row#product": {
     "children": [
-      
       "flex-layout.col#left",
       "flex-layout.col#right"
     ]
