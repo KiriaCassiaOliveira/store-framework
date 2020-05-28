@@ -7,7 +7,9 @@
       "search-result-layout.desktop",
       "search-result-layout.mobile",
       "search-not-found-layout",
-      "product-summary"
+      "product-summary",
+      "flex-layout.col#left",
+      "flex-layout.col#right"
     ]
   },
   "search-result-layout.desktop": {
@@ -29,9 +31,7 @@
   "flex-layout.row#results": {
     "children": [
       "flex-layout.col#filter",
-      "flex-layout.col#search",
-      "flex-layout.col#left",
-      "flex-layout.col#right"
+      "flex-layout.col#search"
     ]
   },
   "flex-layout.col#filter": {
