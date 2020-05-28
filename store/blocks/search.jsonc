@@ -31,9 +31,7 @@
   "flex-layout.row#results": {
     "children": [
       "flex-layout.col#filter",
-      "flex-layout.col#search",
-      "flex-layout.col#left",
-      "flex-layout.col#right"
+      "flex-layout.col#search"
     ]
   },
   "flex-layout.col#filter": {
@@ -43,15 +41,12 @@
   },
   "flex-layout.col#left": {
     "children": [
-      "filter-navigator.v3",
-      "search-content"
+      "filter-navigator.v3"
     ]
   },
   "flex-layout.col#right": {
     "children": [
-      "product-name",
-      "product-identifier.product",
-      "product-price"
+      "search-content"
     ]
   },
     "search-content": {
